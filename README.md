@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I'm a Sumitro Aji Prabowo, Software Developer focusing on Golang and You. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm a Sumitro Aji Prabowo <img src="https://media4.giphy.com/media/PhTSmzCqkliqIJ9ZtZ/giphy.gif" width="50">, Software Developer focusing on Golang and You. <img src="https://media1.giphy.com/media/MFyzx6sKvA9cA5sMZp/giphy.gif" width="50"> 
 <br />
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/AleksK1NG)](https://twitter.com/bowo_anakdesa)
