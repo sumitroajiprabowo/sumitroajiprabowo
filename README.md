@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on trustable People
 - 🤔 I’m looking for help with google and my wife
 - 💬 Ask me about everythink
-- 📫 How to reach me: bowo@anakdesa.id
+- 📫 How to reach me: bowo@kodenusantara.co.id
 - 😄 Pronouns: me
 - ⚡ Fun fact: It is impossible for most people to lick their own elbows. (try it!)
 
