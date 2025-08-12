@@ -13,7 +13,7 @@ I'm a Sumitro Aji Prabowo <img src="https://media4.giphy.com/media/PhTSmzCqkliqI
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ....
+- 🔭 I’m currently working on PT Cepat Kilat Teknologi
 - 🌱 I’m currently learning about you
 - 👯 I’m looking to collaborate on trustable People
 - 🤔 I’m looking for help with google and my wife
