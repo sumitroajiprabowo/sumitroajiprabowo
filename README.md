@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on trustable People
 - 🤔 I’m looking for help with google and my wife
 - 💬 Ask me about everythink
-- 📫 How to reach me: sumitroajiprabowo@gmail.com
 - 😄 Pronouns: me
 - ⚡ Fun fact: It is impossible for most people to lick their own elbows. (try it!)
 
@@ -34,6 +33,5 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sumitroajiprabowo@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/lolololwkwkwk)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/sumitroajiprabowo)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100091266306847
 )
 
