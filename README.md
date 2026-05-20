@@ -15,7 +15,6 @@ I'm a Sumitro Aji Prabowo <img src="https://media4.giphy.com/media/PhTSmzCqkliqI
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
-[![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#)
 [![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)](#)
 [![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](#)
 
